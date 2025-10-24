@@ -1,5 +1,5 @@
 {
-  "name": "ai-automation-final",
+  "name": "ai-automation-site",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -10,3 +10,4 @@
     "openai": "^4.55.0"
   }
 }
+
